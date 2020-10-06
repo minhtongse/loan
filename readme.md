@@ -62,7 +62,7 @@ I want to pay a loan every week
 So that I need a button to pay when pay date come.
 ```
 
-3.
+4.
 ```
 As an admin 
 I want to approve a loan request
