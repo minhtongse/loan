@@ -3,6 +3,7 @@
 - PHP 7.4
 - My SQL 5.5
 - Laravel 5.4
+- Composer
 ## Config 
 - Apache : 
     ```
@@ -27,6 +28,10 @@
         
         # Create admin user
         php artisan db:seed
+    ```
+- Laravel 
+    ```
+    composer install
     ```
 - Admin login information
     + email : admin@gmail.com
