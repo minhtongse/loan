@@ -18,6 +18,10 @@
         </Directory>
     </VirtualHost>
     ``` 
+- Laravel 
+    ```
+    composer install
+    ```
 - Mysql 
     ```
         # Install database
@@ -28,10 +32,6 @@
         
         # Create admin user
         php artisan db:seed
-    ```
-- Laravel 
-    ```
-    composer install
     ```
 - Admin login information
     + email : admin@gmail.com
